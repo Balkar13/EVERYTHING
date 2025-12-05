@@ -43,8 +43,10 @@ Continuously updated 🔥
 | **OWASP ZAP**  | Open source alternative to Burp | [https://www.zaproxy.org](https://www.zaproxy.org)                                 |
 | **SQLMap**     | Automated SQL Injection         | [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) |
 | **XSStrike**   | Advanced XSS tool               | [https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)           |
-| **Wfuzz**      | Web Fuzzer                      | [https://github.com/xmendez/wfuzz](https://github.com/xmendez/wfuzz)               |
-
+| **GoBuster**      | Directory Brute-Forcing                      | [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)               |
+| **Hackbar**      | Manual SQLi-Exploitation                      | [https://github.com/PhHitachi/HackBar](https://github.com/PhHitachi/HackBar)               |
+| **Ghidra**      | NSA reverse engineering suite                      | [https://ghidra-sre.org](https://ghidra-sre.org)               |
+| **x64dbg**      | Powerful Windows debugger                     | [https://x64dbg.com](https://x64dbg.com)               |
 ---
 
 # 🧰 Wordlists & Payloads
@@ -122,13 +124,5 @@ Continuously updated 🔥
 
 ---
 
-# 📝 Notes
-
-The END **if any suggestion or something to add just write here and commit pull request**.
-
-```bash
-# Example: add hackbar tool to network tools section
-
-```
 
 ---
