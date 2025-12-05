@@ -101,8 +101,13 @@ Continuously updated 🔥
 | **TryHackMe**           | [https://tryhackme.com](https://tryhackme.com)                               |
 | **Hack The Box**        | [https://hackthebox.com](https://hackthebox.com)                             |
 | **PortSwigger Academy** | [https://portswigger.net/web-security](https://portswigger.net/web-security) |
-| **PentesterLab**        | [https://pentesterlab.com](https://pentesterlab.com)                         |
-
+| **Try2Hack.me**        | [https://try2hack.me/ukoly](https://try2hack.me/ukoly)                         |
+| **PicoCTF**        | [https://play.picoctf.org/](https://play.picoctf.org/)                         |
+| **CTFlearn**        | [https://ctflearn.com/](https://ctflearn.com/)                         |
+| **CyberDefenders**        | [https://cyberdefenders.org/dashboard/](https://cyberdefenders.org/dashboard/)                         |
+| **RootMe**        | [https://www.root-me.org/?page=news&lang=fr](https://www.root-me.org/?page=news&lang=fr)                         |
+| **Xmass-RootMe**        | [https://ctf.xmas.root-me.org/](https://ctf.xmas.root-me.org/)                         |
+| **Over The Wire**        | [https://overthewire.org/wargames/](https://overthewire.org/wargames/)                         |
 ---
 
 # 📚 Books & Learning
@@ -111,19 +116,19 @@ Continuously updated 🔥
 
 | Book                                  | Link                                                   |
 | ------------------------------------- | ------------------------------------------------------ |
-| **Web Application Hacker’s Handbook** | [https://book.corrosive.pt](https://book.corrosive.pt) |
-| **The Art of Exploitation**           | [https://nostarch.com](https://nostarch.com)           |
-| **Practical Malware Analysis**        | [https://nostarch.com](https://nostarch.com)           |
+| **Black-Hat-Python** | [https://balkarsidhu.xyz/files/black-hat-python-python-programming-for-hackers-and-pentesters.pdf](https://balkarsidhu.xyz/files/black-hat-python-python-programming-for-hackers-and-pentesters.pdf) |
+| **The Art of Exploitation**           | [https://balkarsidhu.xyz/files/Hacking%20-%20The%20Art%20of%20Exploitation,%202nd%20Edition%20by%20Jon%20Erickson.pdf](https://balkarsidhu.xyz/files/Hacking%20-%20The%20Art%20of%20Exploitation,%202nd%20Edition%20by%20Jon%20Erickson.pdf)           |
+| **Reversing:Secrets of Reverse Engineering**        | [https://balkarsidhu.xyz/files/Reversing-Secrets%20of%20Reverse%20Engineering.pdf](https://balkarsidhu.xyz/files/Reversing-Secrets%20of%20Reverse%20Engineering.pdf)           |
 
 ---
 
 # 📝 Notes
 
-Use this section to store your **personal commands, screenshots, cheatcodes, scripts, and custom payloads**.
+The END **if any suggestion or something to add just write here and commit pull request**.
 
 ```bash
-# Example: Nmap commands
-nmap -sC -sV -oN scan.txt <target>
+# Example: add hackbar tool to network tools section
+
 ```
 
 ---
