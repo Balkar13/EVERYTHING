@@ -30,7 +30,7 @@ Continuously updated 🔥
 | **Parrot OS**   | Lightweight pentesting OS        | [https://parrotlinux.org](https://parrotlinux.org)           |
 | **Netcat (nc)** | Networking Swiss army knife      | [https://nc110.sourceforge.io](https://nc110.sourceforge.io) |
 | **Nmap**        | Port Scanning, Service Detection | [https://nmap.org](https://nmap.org)                         |
-
+| **JOHN**        | CRACKING PASSWORDS               | [[https://nmap.org](https://www.openwall.com/john/)]         |
 ---
 
 # 🌐 Web Pentesting Resources
